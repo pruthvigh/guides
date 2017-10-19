@@ -33,13 +33,14 @@ Try different values to see the how it affects the div and over in the html
 
 This can be of use in a CSS navigation menu. The key is to make the height of the menu and the line-height of the text the same.
 
-.nav li{
+<code> .nav li{
      line-height:50px;
      height:50px;
      }
+     </code>
      
-     More neat tricks <a href = "https://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/" 
-     target = '_blank'>can be found here</a>
+      <a href = "https://www.webdesignerdepot.com/2016/10/20-essential-css-tricks-every-designer-should-know/" 
+     target = '_blank'>More CSS tricks can be found here</a>
 
 ## Center a horizontal list
 
